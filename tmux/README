@@ -1,3 +1,0 @@
-1. create simlinks to .tmux.conf and .tmux
-2. enter tmux, and Prefix+I to install tpm plugins
-3. Prefix+r to reload tmux
