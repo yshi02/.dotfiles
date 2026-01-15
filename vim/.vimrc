@@ -84,6 +84,9 @@ set smartcase
 " don't save backup files
 set nobackup
 
+" use new regex engine for faster rendering
+set re=0
+
 
 """"""""""""""""""""""""""""""""""""""""
 " Plugins
